@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import AnimatedSection from '../components/AnimatedSection'
-import {  GitBranch,ExternalLink, ChevronRight, Zap, TrendingUp, Clock, Users,Layers } from 'lucide-react'
+import {  ChevronRight, Zap, TrendingUp, Clock, Users,Layers } from 'lucide-react'
 
 const projects = [
   {

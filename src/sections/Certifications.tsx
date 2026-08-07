@@ -1,5 +1,5 @@
 import AnimatedSection from '../components/AnimatedSection'
-import { Award, Calendar, ExternalLink } from 'lucide-react'
+import { Award, Calendar } from 'lucide-react'
 
 const certifications = [
   {

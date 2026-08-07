@@ -1,5 +1,5 @@
 import AnimatedSection from '../components/AnimatedSection'
-import { Download, FileText, Eye, ExternalLink } from 'lucide-react'
+import { Download, FileText, Eye } from 'lucide-react'
 
 export default function Resume() {
   return (

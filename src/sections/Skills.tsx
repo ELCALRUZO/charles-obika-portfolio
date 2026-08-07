@@ -3,7 +3,7 @@ import AnimatedSection from '../components/AnimatedSection'
 import { 
   Code2, Layout, Server, Database, Cloud, 
   Workflow, Brain, Shield, ChevronRight,
-  Cpu, GitBranch, Terminal, Layers
+  GitBranch, Terminal, Layers
 } from 'lucide-react'
 
 const skillCategories = [

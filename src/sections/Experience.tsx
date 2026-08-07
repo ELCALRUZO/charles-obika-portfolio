@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import AnimatedSection from '../components/AnimatedSection'
-import { ChevronDown, MapPin, Calendar, Briefcase, Code } from 'lucide-react'
+import { ChevronDown, MapPin, Calendar} from 'lucide-react'
 
 const experiences = [
   {
