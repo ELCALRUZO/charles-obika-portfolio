@@ -22,7 +22,7 @@ const experiences = [
   },
   {
     company: 'Turing',
-    position: 'Senior Backend Engineer - AI & Distributed Systems',
+    position: 'FullStack Engineer(LLM) - AI & Distributed Systems',
     location: 'Remote (USA)',
     period: 'February 2025 - August 2025',
     technologies: ['Python','JavaScript', 'FastAPI', 'OpenAI API', 'LangChain', 'Pinecone', 'Qdrant', 'Redis', 'Celery', 'Docker', 'Kubernetes', 'GitHub Actions'],
