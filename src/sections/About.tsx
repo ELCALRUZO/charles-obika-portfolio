@@ -26,12 +26,12 @@ export default function About() {
               <p className="text-base text-muted-gray leading-relaxed">
                 My work spans <span className="text-white/80">FinTech</span>, <span className="text-white/80">HealthTech</span>, 
                 and <span className="text-white/80">Enterprise SaaS</span>, with a focus on mission-critical financial 
-                infrastructure — including NIBSS integrations, real-time KYC/AML platforms, 
-                and LLM-powered document intelligence pipelines.
+                infrastructure — including  integrations, real-time KYC/AML platforms, 
+                and LLM-powered intelligence pipelines.
               </p>
               <div className="grid grid-cols-2 gap-4 pt-4">
                 <div className="p-4 rounded-xl bg-dark-card border border-dark-border">
-                  <p className="text-2xl font-bold text-gold">9+</p>
+                  <p className="text-2xl font-bold text-gold">10+</p>
                   <p className="text-sm text-muted-gray">Years Experience</p>
                 </div>
                 <div className="p-4 rounded-xl bg-dark-card border border-dark-border">
