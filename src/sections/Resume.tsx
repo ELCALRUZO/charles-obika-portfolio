@@ -51,9 +51,7 @@ export default function Resume() {
 
                 <div className="mt-4 pt-4 border-t border-dark-border">
                   <p className="text-xs text-muted-gray">
-                    <span className="text-gold">⚠</span> To make the resume downloadable, place the PDF at:
-                    <br />
-                    <code className="text-xs text-gold/70 font-mono">public/resume/Charles-Obika-Resume.pdf</code>
+                    
                   </p>
                 </div>
               </div>
