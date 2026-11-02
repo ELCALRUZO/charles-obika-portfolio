@@ -35,7 +35,7 @@ const skillCategories = [
   {
     name: 'Cloud & Containers',
     icon: Cloud,
-    skills: ['AWS (Lambda, ECS, S3, IAM, RDS)', 'Azure (App Services, Functions, AKS, OpenAI)', 'Docker', 'Kubernetes', 'Terraform']
+    skills: ['AWS (Lambda, ECS, S3, IAM, RDS)', 'Azure (App Services, Functions, AKS, OpenAI)', 'Docker', 'Kubernetes']
   },
   {
     name: 'DevOps & CI/CD',
